@@ -26,7 +26,7 @@ export default function ContentSection2() {
 
         <div className="relative space-y-4">
             <p className="text-muted-foreground">
-            Working with physics educator Abhishek Sahu has been one of our most rewarding partnerships. By implementing our strategic content optimization and community-building framework.  <span className="text-accent-foreground font-bold"> This collaboration demonstrates how Growton's specialized approach helps educational content creators maximize their impact and reach.RetryClaude can make mistakes. Please double-check responses. </span> 
+            Working with physics educator Abhishek Sahu has been one of our most rewarding partnerships. By implementing our strategic content optimization and community-building framework.  <span className="text-accent-foreground font-bold"> This collaboration demonstrates how Growton specialized approach helps educational content creators maximize their impact and reach.RetryClaude can make mistakes. Please double-check responses. </span> 
             </p>
            
             <div className="pt-0">
